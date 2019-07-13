@@ -1,4 +1,6 @@
 # Sockets Test
 
-## Lanza el main y conectate a Telnet desde el cmd.  
-### telnet ip 9090
+Chat básico que acepta clientes y imprime mensajes enviados por ellos.
+Lanza el main y conectate a Telnet desde el cmd.  
+Ejemplo: 
+#### telnet ip 9090
